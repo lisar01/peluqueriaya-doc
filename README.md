@@ -18,3 +18,6 @@
 
 ## Instalación de Peluqueria Ya
 
+1. [Realizar la instalacion del Backend](https://github.com/lisar01/peluqueriaya-backend)
+
+2. [Realizar la instalacion del Frontend](https://github.com/cassa10/peluqueriaya-frontend)
